@@ -19,7 +19,7 @@ body {
   position: absolute;
   height: 3rem;
   width: 5px;
-  background: black;
+  background: rgb(11, 34, 245);
   top: 0;
   transform: translateY(-4px);
   right: -5px;
